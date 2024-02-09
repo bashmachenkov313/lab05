@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="opendialog">Open dialog</string>
+    <string name="Exitapp">Exit app</string>
+    <string name="CAncel">Cancel</string>
+    <string name="Ok">OK</string>
+    <string name="OPEn">Open isolated dialog</string>
+</resources>
